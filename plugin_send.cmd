@@ -1,0 +1,1 @@
+python C:/Domoticz/plugins/BroadlinkRM2/plugin_send.py %1 > c:\temp\zla.txt
